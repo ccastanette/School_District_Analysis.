@@ -12,11 +12,13 @@ The purpose of this analysis is to re-create our district analysis while removin
 ![!](https://github.com/ccastanette/School_District_Analysis./blob/main/Resources/District%20Summaries.png)
   
   - How is the school summary affected?
-  
-        The summary per school for Thomas High School had small differences in both of the average math score and reading scores as well as the           percentage that passed math, reading and both. These differences were all less than .1%
-        
-        ```Insert Pics here```
-  
+        The summary per school for Thomas High School had small differences in both of the average math score and reading scores as well as the               percentage that passed math, reading and both. These differences were all less than .1%
+
+![!](https://github.com/ccastanette/School_District_Analysis./blob/main/Resources/Per%20School%20Summary%20Before.png)
+
+
+![!](https://github.com/ccastanette/School_District_Analysis./blob/main/Resources/Per%20School%20Summary%20After.png)
+
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
         There was not enough of a difference to change the rankings vs. other schools
   
