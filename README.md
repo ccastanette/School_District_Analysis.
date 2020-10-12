@@ -9,7 +9,7 @@ The purpose of this analysis is to re-create our district analysis while removin
   - How is the district summary affected?
         The district summary had small differences in the percentage of students who passed either math or reading and a .3 % decrease on the number          of students who passed both.
         
-        ```Insert pic here```
+![!](https://github.com/ccastanette/School_District_Analysis./blob/main/Resources/District%20Summaries.png)
   
   - How is the school summary affected?
   
